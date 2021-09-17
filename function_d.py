@@ -7,6 +7,6 @@ def max_value(numbers):
     for numner in numbers:
         if numner > 0:
             max = numner
-
+    #meganogar sneganogar
 if __name__ == "__main__":
     print(max_value([1, 12, 2, 42, 8, 3]))
